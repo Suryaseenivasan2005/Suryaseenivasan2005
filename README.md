@@ -41,13 +41,6 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://exam-hall-allocation-system-nu.vercel.app"><img src="https://img.shields.io/badge/HallSync-Live%20Exam%20Allocation-blue?style=for-the-badge" alt="HallSync" /></a>
-  <a href="https://textile-tool.vercel.app"><img src="https://img.shields.io/badge/Tex-Tool-Textile%20Management-purple?style=for-the-badge" alt="Tex-Tool" /></a>
-  <a href="https://talklet-beta.vercel.app"><img src="https://img.shields.io/badge/Talklet-Real-time%20Chat-cyan?style=for-the-badge" alt="Talklet" /></a>
-  <a href="https://github.com/Suryaseenivasan2005/project---december"><img src="https://img.shields.io/badge/AI%20Agent%20System-In%20Progress-orange?style=for-the-badge" alt="AI Productivity Agent System" /></a>
-</p>
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
