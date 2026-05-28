@@ -1,6 +1,5 @@
 <p align="center">
-  <strong style="font-size:42px; color:#A5F3FC; line-height:1.2;">Surya S</strong><br/>
-  <span style="font-size:20px; color:#c3d4ec;">Full Stack Developer · AI Agents · Builder</span>
+  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1200&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
