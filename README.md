@@ -16,7 +16,6 @@
 <p>Hello! I’m <strong>Surya S</strong>, a Full Stack Developer and AI agent builder. I create production-ready web experiences, real-time systems, and intelligent automation for institutions and clients.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/College-Tagore%20Engineering%20College%20Chennai-27272b?style=flat-square&logo=academic&logoColor=white" alt="College" />
   <img src="https://img.shields.io/badge/Degree-B.Tech%20IT%20(2027)-27272b?style=flat-square&logo=education&logoColor=white" alt="Degree" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Web%20Apps-27272b?style=flat-square&logo=artstation&logoColor=white" alt="Focus" />
 </div>
