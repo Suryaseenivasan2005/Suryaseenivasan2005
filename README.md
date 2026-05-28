@@ -1,6 +1,11 @@
-<p align="center">
-  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1200&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" alt="Typing SVG" />
-</p>
+<div align="center" style="display:flex; justify-content:center; align-items:center; height:300px;">
+  <img 
+    width="760" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1200&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" 
+    alt="Typing SVG" 
+  />
+</div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/surya-seenivasan-b85249354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
