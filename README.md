@@ -1,11 +1,7 @@
-<div align="center" style="display:flex; justify-content:center; align-items:center; height:300px;">
-  <img 
-    width="760" 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1200&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" 
-    alt="Typing SVG" 
-  />
-</div>
-
+<p align="center">
+  <strong style="font-size:42px; color:#A5F3FC; line-height:1.2;">Surya S</strong><br/>
+  <span style="font-size:20px; color:#c3d4ec;">Full Stack Developer · AI Agents · Builder</span>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/surya-seenivasan-b85249354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -48,10 +44,10 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://exam-hall-allocation-system-nu.vercel.app"><img src="https://img.shields.io/badge/HallSync-Live%20Exam%20Allocation-blue?style=for-the-badge&logo=google-classroom&logoColor=white" alt="HallSync" /></a>
-  <a href="https://textile-tool.vercel.app"><img src="https://img.shields.io/badge/Tex-Tool-Textile%20Management-purple?style=for-the-badge&logo=shopify&logoColor=white" alt="Tex-Tool" /></a>
-  <a href="https://talklet-beta.vercel.app"><img src="https://img.shields.io/badge/Talklet-Real-time%20Chat-cyan?style=for-the-badge&logo=socket.io&logoColor=white" alt="Talklet" /></a>
-  <a href="https://github.com/Suryaseenivasan2005/project---december"><img src="https://img.shields.io/badge/AI%20Agent%20System-In%20Progress-orange?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Productivity Agent System" /></a>
+  <a href="https://exam-hall-allocation-system-nu.vercel.app"><img src="https://img.shields.io/badge/HallSync-Live%20Exam%20Allocation-blue?style=for-the-badge" alt="HallSync" /></a>
+  <a href="https://textile-tool.vercel.app"><img src="https://img.shields.io/badge/Tex-Tool-Textile%20Management-purple?style=for-the-badge" alt="Tex-Tool" /></a>
+  <a href="https://talklet-beta.vercel.app"><img src="https://img.shields.io/badge/Talklet-Real-time%20Chat-cyan?style=for-the-badge" alt="Talklet" /></a>
+  <a href="https://github.com/Suryaseenivasan2005/project---december"><img src="https://img.shields.io/badge/AI%20Agent%20System-In%20Progress-orange?style=for-the-badge" alt="AI Productivity Agent System" /></a>
 </p>
 
 <table width="100%">
@@ -124,10 +120,6 @@
 
 <p align="center">
   <img width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suryaseenivasan2005&theme=tokyonight" alt="GitHub top languages" />
-</p>
-
-<p align="center">
-  <img width="520" src="https://ghchart.rshah.org/Suryaseenivasan2005" alt="GitHub contributions chart" />
 </p>
 
 ---
