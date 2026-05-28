@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1400&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" alt="Typing SVG" />
+  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1200&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,40 +9,76 @@
   <img src="https://komarev.com/ghpvc/?username=Suryaseenivasan2005&style=for-the-badge&color=0EA5E9&label=Profile+Views" alt="Profile views" />
 </p>
 
+---
+
+## 👋 Hello there
+
+<p>Hello! I’m <strong>Surya S</strong>, a Full Stack Developer and AI agent builder. I create production-ready web experiences, real-time systems, and intelligent automation for institutions and clients.</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/College-Tagore%20Engineering%20College%20Chennai-27272b?style=flat-square&logo=academic&logoColor=white" alt="College" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20IT%20(2027)-27272b?style=flat-square&logo=education&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Web%20Apps-27272b?style=flat-square&logo=artstation&logoColor=white" alt="Focus" />
+</div>
+
+<p>My strengths are:</p>
+
+- <strong>Product delivery:</strong> Live applications with real users and paying clients
+- <strong>Real-time systems:</strong> chat, monitoring, collaboration, and data sync with Socket.io
+- <strong>AI agents:</strong> workflow orchestration and automation using n8n and smart tooling
+- <strong>Polished UI:</strong> React + Tailwind for attractive and responsive interfaces
+
+---
+
+## 🔥 Highlights
+
+- Institution-selected developer for Exam Cell and Student Council website
+- 1st Prize Idea Hackathon — college level
+- 3 live production apps currently deployed
+- Freelance delivery with real client value
+- 10 certifications: 8x HCL GUVI, 2x Oracle Cloud, Simplilearn AI Agent Builder
+
+---
+
+## 🚀 Featured Projects
+
 <p align="center">
-  <strong style="color:#A5F3FC">Building production-grade apps, AI agent workflows, and real-time systems for clients and institutions.</strong>
+  <a href="https://exam-hall-allocation-system-nu.vercel.app"><img src="https://img.shields.io/badge/HallSync-Live%20Exam%20Allocation-blue?style=for-the-badge&logo=google-classroom&logoColor=white" alt="HallSync" /></a>
+  <a href="https://textile-tool.vercel.app"><img src="https://img.shields.io/badge/Tex-Tool-Textile%20Management-purple?style=for-the-badge&logo=shopify&logoColor=white" alt="Tex-Tool" /></a>
+  <a href="https://talklet-beta.vercel.app"><img src="https://img.shields.io/badge/Talklet-Real-time%20Chat-cyan?style=for-the-badge&logo=socket.io&logoColor=white" alt="Talklet" /></a>
+  <a href="https://github.com/Suryaseenivasan2005/project---december"><img src="https://img.shields.io/badge/AI%20Agent%20System-In%20Progress-orange?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Productivity Agent System" /></a>
 </p>
 
----
-
-## 👋 About Me
-
-<p>Hello! I’m <strong>Surya S</strong>, a Full Stack Developer and AI agent builder studying <strong>B.Tech IT (2027)</strong> at Tagore Engineering College, Chennai.</p>
-
-<p>My work blends modern web development with automation and real-world delivery:</p>
-
-- 💼 Full stack apps with React, Node.js, Express, MongoDB, and Tailwind
-- 🤖 AI agents, orchestration workflows, and smart pipelines using n8n
-- ⚡ Real-time systems built with Socket.io and production-ready deployment on Vercel
-- 🚀 Delivered live products for institutions, clients, and student initiatives
-
-<p><strong>Quick facts</strong></p>
-
-- 🎓 Tagore Engineering College, Chennai — B.Tech IT (2027)
-- 📧 <a href="mailto:suryaseenivasan12@gmail.com">suryaseenivasan12@gmail.com</a>
-- 🌐 Portfolio: <a href="https://surya-portfolio-sigma.vercel.app">surya-portfolio-sigma.vercel.app</a>
-- 🔭 Currently learning: Python, FastAPI, LangChain, and AI agent orchestration
-
----
-
-## 🚀 Projects
-
-| Project | What it does | Live | Repository |
-|---|---|---|---|
-| **HallSync** | Exam hall seating automation for 1000+ students, commissioned by institution. | [Live](https://exam-hall-allocation-system-nu.vercel.app) | [GitHub](https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System) |
-| **Tex-Tool** | Textile business management system delivered to a paying client. | [Live](https://textile-tool.vercel.app) | [GitHub](https://github.com/Suryaseenivasan2005/textile-tool) |
-| **Talklet** | Real-time chat app built with Socket.io for 50+ concurrent users. | [Live](https://talklet-beta.vercel.app) | [GitHub](https://github.com/Suryaseenivasan2005/chat-app) |
-| **AI Productivity Agent System** | In-progress n8n multi-agent automation platform for productivity workflows. | — | [GitHub](https://github.com/Suryaseenivasan2005/project---december) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>HallSync</h3>
+      <p>Exam hall seating automation for 1000+ students with institutional commission and live deployment.</p>
+      <p><strong>Stack:</strong> React, Node.js, MongoDB, Tailwind, JWT</p>
+      <p><a href="https://exam-hall-allocation-system-nu.vercel.app">Live demo</a> • <a href="https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tex-Tool</h3>
+      <p>Textile business management platform delivered to a paying client for inventory, orders, and product workflows.</p>
+      <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, Tailwind</p>
+      <p><a href="https://textile-tool.vercel.app">Live demo</a> • <a href="https://github.com/Suryaseenivasan2005/textile-tool">Source</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Talklet</h3>
+      <p>Real-time chat experience built for concurrent users using Socket.io and modern UI design.</p>
+      <p><strong>Stack:</strong> React, Socket.io, Node.js, Tailwind</p>
+      <p><a href="https://talklet-beta.vercel.app">Live demo</a> • <a href="https://github.com/Suryaseenivasan2005/chat-app">Source</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Productivity Agent System</h3>
+      <p>In-progress n8n multi-agent workflow platform for automation, agent orchestration, and productivity tooling.</p>
+      <p><strong>Stack:</strong> n8n, JavaScript, Python, API automation</p>
+      <p><a href="https://github.com/Suryaseenivasan2005/project---december">Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,47 +100,41 @@
 
 ---
 
-## 💡 Highlights
+## 📚 Learning
 
-- Institution-selected developer for Exam Cell and Student Council website
-- 1st Prize Idea Hackathon — college level
-- 3 live production apps in market
-- Freelance client delivery with real business impact
-- 10 certifications: 8x HCL GUVI, 2x Oracle Cloud, Simplilearn AI Agent Builder
-
----
-
-## 📚 Currently Learning
+<p>Current focus:</p>
 
 - Python
 - FastAPI
 - LangChain
-- AI automation for developer workflows
+- AI agent orchestration and workflow automation
 
 ---
 
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Surya's GitHub stats" />
+  <img width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suryaseenivasan2005&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaseenivasan2005&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img width="520" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suryaseenivasan2005&theme=tokyonight" alt="GitHub top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suryaseenivasan2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="520" src="https://ghchart.rshah.org/Suryaseenivasan2005" alt="GitHub contributions chart" />
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📫 Let’s connect
 
-- LinkedIn: [linkedin.com/in/surya-seenivasan-b85249354](https://linkedin.com/in/surya-seenivasan-b85249354)
-- Portfolio: [surya-portfolio-sigma.vercel.app](https://surya-portfolio-sigma.vercel.app)
-- Email: [suryaseenivasan12@gmail.com](mailto:suryaseenivasan12@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/surya-seenivasan-b85249354">LinkedIn</a> •
+  <a href="https://surya-portfolio-sigma.vercel.app">Portfolio</a> •
+  <a href="mailto:suryaseenivasan12@gmail.com">Email</a>
+</p>
 
 ---
 
-<em>Always building, automating, and delivering practical digital products with design, speed, and reliability.</em>
+<p align="center"><em>Building client-ready apps, AI-driven workflows, and modern web products with speed and polish.</em></p>
