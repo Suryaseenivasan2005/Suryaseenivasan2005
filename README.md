@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1400&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Automation+%7C+Builder" alt="Typing SVG" />
+  <img width="760" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1400&color=ffffff&background=1f2335&center=true&width=760&lines=Surya+S+%7C+Full+Stack+Developer+%7C+AI+Agents+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,28 +9,29 @@
   <img src="https://komarev.com/ghpvc/?username=Suryaseenivasan2005&style=for-the-badge&color=0EA5E9&label=Profile+Views" alt="Profile views" />
 </p>
 
+<p align="center">
+  <strong style="color:#A5F3FC">Building production-grade apps, AI agent workflows, and real-time systems for clients and institutions.</strong>
+</p>
+
 ---
 
 ## 👋 About Me
 
-```js
-const SuryaS = {
-  name: "Surya S",
-  role: "Full Stack Developer | AI Automation | Builder",
-  college: "Tagore Engineering College, Chennai",
-  degree: "B.Tech IT (2027)",
-  email: "suryaseenivasan12@gmail.com",
-  techStack: [
-    "React", "Node.js", "Express", "MongoDB", "JavaScript",
-    "Python", "Socket.io", "n8n", "Tailwind CSS", "Git",
-    "Vercel", "JWT"
-  ],
-  learning: ["Python", "FastAPI", "LangChain"],
-  focus: "Shipping production-grade automation, real-time systems, and AI-enabled developer tooling",
-};
-```
+<p>Hello! I’m <strong>Surya S</strong>, a Full Stack Developer and AI agent builder studying <strong>B.Tech IT (2027)</strong> at Tagore Engineering College, Chennai.</p>
 
-I build polished full-stack products, automate workflows, and deliver professional apps for real clients. My work is focused on scalable user experiences, real-time collaboration, and AI-driven automation.
+<p>My work blends modern web development with automation and real-world delivery:</p>
+
+- 💼 Full stack apps with React, Node.js, Express, MongoDB, and Tailwind
+- 🤖 AI agents, orchestration workflows, and smart pipelines using n8n
+- ⚡ Real-time systems built with Socket.io and production-ready deployment on Vercel
+- 🚀 Delivered live products for institutions, clients, and student initiatives
+
+<p><strong>Quick facts</strong></p>
+
+- 🎓 Tagore Engineering College, Chennai — B.Tech IT (2027)
+- 📧 <a href="mailto:suryaseenivasan12@gmail.com">suryaseenivasan12@gmail.com</a>
+- 🌐 Portfolio: <a href="https://surya-portfolio-sigma.vercel.app">surya-portfolio-sigma.vercel.app</a>
+- 🔭 Currently learning: Python, FastAPI, LangChain, and AI agent orchestration
 
 ---
 
@@ -85,12 +86,15 @@ I build polished full-stack products, automate workflows, and deliver profession
 ## 📈 GitHub Snapshot
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Surya's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaseenivasan2005&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Surya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaseenivasan2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaseenivasan2005&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suryaseenivasan2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
