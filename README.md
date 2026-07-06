@@ -79,17 +79,4 @@ Real-time chat application powered by Socket.io with instant messaging.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=radical&count_private=true&border_radius=10&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaseenivasan2005&layout=compact&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaseenivasan2005&theme=radical&border_radius=10&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Building the future, one line of code at a time.</i></p>
