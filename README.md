@@ -1,88 +1,119 @@
-# 🚀 _Surya S_
+<h1 align="center">Hi, I'm Surya S 👋</h1>
+<h3 align="center">Software Engineer</h3>
 
-> ***Full Stack Developer*** | ***AI Agent Builder***
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Automating+workflows+with+AI;Currently+exploring+FastAPI+%2B+LangChain" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/surya-seenivasan-b85249354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://surya-portfolio-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:suryaseenivasan12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 🧭 About
+
+Software Engineer building production-ready web applications and AI-driven automation systems. Focused on writing clean, maintainable code and shipping real products — not just tutorials.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,fastapi,mongodb,python,vercel,git,github,postman" />
+</p>
 
 <div align="center">
 
-**[📱 LinkedIn](https://linkedin.com/in/surya-seenivasan-b85249354)** • **[🌐 Portfolio](https://surya-portfolio-sigma.vercel.app)** • **[✉️ Email](mailto:suryaseenivasan12@gmail.com)**
+| Frontend | Backend | Data & Tools |
+|:---:|:---:|:---:|
+| React | Node.js | MongoDB |
+| Tailwind CSS | Express | Socket.io |
+| JavaScript | FastAPI | JWT |
+| | Python | Vercel |
 
 </div>
 
 ---
 
-## 👋 ***About Me***
+### ⭐ Featured Projects
 
-> I'm a **_passionate Full Stack Developer_** crafting production-ready applications, real-time systems, and intelligent AI automation workflows that scale.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🎓 HallSync**
+Exam hall seating automation system built for 1000+ students, live in production at my college.
 
-## 🛠️ ***Technical Stack***
+[
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Tools & Databases</b></td>
-  </tr>
-  <tr>
-    <td>
-      • <i>React</i><br>
-      • <i>Tailwind CSS</i><br>
-      • <i>JavaScript</i>
-    </td>
-    <td>
-      • <i>Node.js</i><br>
-      • <i>Express</i><br>
-      • <i>FastAPI</i>
-    </td>
-    <td>
-      • <i>MongoDB</i><br>
-      • <i>Socket.io</i><br>
-      • <i>JWT</i><br>
-      • <i>Vercel</i>
-    </td>
-  </tr>
+![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
+
+](https://exam-hall-allocation-system-nu.vercel.app)
+[
+
+![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
+
+](https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System)
+
+</td>
+<td width="50%" valign="top">
+
+**🧵 Tex-Tool**
+Textile business management platform for order and inventory tracking.
+
+[
+
+![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
+
+](https://textile-tool.vercel.app)
+[
+
+![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
+
+](https://github.com/Suryaseenivasan2005/textile-tool)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 Talklet**
+Real-time chat application powered by Socket.io with instant messaging.
+
+[
+
+![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
+
+](https://talklet-beta.vercel.app)
+[
+
+![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
+
+](https://github.com/Suryaseenivasan2005/chat-app)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
 
-## ⭐ ***Featured Projects***
+### 📊 GitHub Stats
 
-### 🎓 ***HallSync***
-> _Exam hall automation system for 1000+ students_
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=radical&count_private=true&border_radius=10&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaseenivasan2005&layout=compact&theme=radical&border_radius=10&hide_border=true" />
+</p>
 
-**[🔗 Live Demo](https://exam-hall-allocation-system-nu.vercel.app)** • **[💻 Source Code](https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System)**
-
----
-
-### 🧵 ***Tex-Tool***
-> _Textile business management platform_
-
-**[🔗 Live Demo](https://textile-tool.vercel.app)** • **[💻 Source Code](https://github.com/Suryaseenivasan2005/textile-tool)**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaseenivasan2005&theme=radical&border_radius=10&hide_border=true" />
+</p>
 
 ---
 
-### 💬 ***Talklet***
-> _Real-time chat application powered by Socket.io_
-
-**[🔗 Live Demo](https://talklet-beta.vercel.app)** • **[💻 Source Code](https://github.com/Suryaseenivasan2005/chat-app)**
-
----
-
-## 📊 ***GitHub Analytics***
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suryaseenivasan2005&show_icons=true&theme=dark&count_private=true&border_radius=10&bg_color=0d1117&text_color=c9cacc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaseenivasan2005&layout=compact&theme=dark&border_radius=10&bg_color=0d1117&text_color=c9cacc)
-
-</div>
-
----
-
-<div align="center">
-
-***⚡ Building the future, one line of code at a time ⚡***
-
-</div>
+<p align="center"><i>Building the future, one line of code at a time.</i></p>
