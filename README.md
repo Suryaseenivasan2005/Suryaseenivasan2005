@@ -22,17 +22,17 @@ Software Engineer building production-ready web applications and AI-driven autom
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,fastapi,mongodb,python,vercel,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,js,nodejs,express,fastapi,mongodb,python,vercel,git,github,postman" />
 </p>
 
 <div align="center">
 
 | Frontend | Backend | Data & Tools |
 |:---:|:---:|:---:|
-| React | Node.js | MongoDB |
-| Tailwind CSS | Express | Socket.io |
-| JavaScript | FastAPI | JWT |
-| | Python | Vercel |
+| React.js | Node.js | MongoDB |
+| Bootstrap | Express | Socket.io |
+| Tailwind CSS | FastAPI | JWT |
+| JavaScript | Python | Vercel |
 
 </div>
 
@@ -44,55 +44,31 @@ Software Engineer building production-ready web applications and AI-driven autom
 <tr>
 <td width="50%" valign="top">
 
-**🎓 HallSync**
+<b>🎓 HallSync</b><br>
 Exam hall seating automation system built for 1000+ students, live in production at my college.
-
-[
-
-![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
-
-](https://exam-hall-allocation-system-nu.vercel.app)
-[
-
-![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
-
-](https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System)
+<br><br>
+<a href="https://exam-hall-allocation-system-nu.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel"></a>
+<a href="https://github.com/Suryaseenivasan2005/Exam-Hall-Allocation-System"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"></a>
 
 </td>
 <td width="50%" valign="top">
 
-**🧵 Tex-Tool**
+<b>🧵 Tex-Tool</b><br>
 Textile business management platform for order and inventory tracking.
-
-[
-
-![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
-
-](https://textile-tool.vercel.app)
-[
-
-![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
-
-](https://github.com/Suryaseenivasan2005/textile-tool)
+<br><br>
+<a href="https://textile-tool.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel"></a>
+<a href="https://github.com/Suryaseenivasan2005/textile-tool"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**💬 Talklet**
+<b>💬 Talklet</b><br>
 Real-time chat application powered by Socket.io with instant messaging.
-
-[
-
-![Live](https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel)
-
-](https://talklet-beta.vercel.app)
-[
-
-![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)
-
-](https://github.com/Suryaseenivasan2005/chat-app)
+<br><br>
+<a href="https://talklet-beta.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=flat-square&logo=vercel"></a>
+<a href="https://github.com/Suryaseenivasan2005/chat-app"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"></a>
 
 </td>
 <td width="50%" valign="top">
